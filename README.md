@@ -1,2 +1,2 @@
 # AEA_BMS
-elektrikli araç için 12s bms kartı
+iskenderun teknik üniversite  Alternatif araç topluluğu için hazırlamış olduğum 12 s batarya yönetim sistemi tasarımı 
